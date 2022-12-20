@@ -1,0 +1,22 @@
+.card {
+    margin: 3em 0em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    border-radius: 0;
+  }
+  .cards-wrapper {
+    justify-content: center;
+  }
+  .Cards{
+    margin-left: 62px;
+  }
+  
+.Pagenumbers{
+    list-style: none;
+    display: flex;
+  }
+.Pagenumbers li{
+    padding: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+  }
